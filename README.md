@@ -2,4 +2,4 @@ Hi, I am Adarsh Gadagin, a B.Tech Computer Science and Engineering student at RE
 
 - Developing my skills in Java, problem-solving, and modern software development.
 - Interested in web development, AI/ML, and building software projects.
-- 
+- Goal: grow into a skilled software engineer with expertise in AI and system design.
